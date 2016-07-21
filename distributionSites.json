@@ -1,0 +1,110 @@
+{
+   "SITE_TUTORIAL_NOBUILDS":{
+      "EN":"Sorry, there are no compatible versions available for this device.",
+      "ES":"Los sentimos, no hay versiones compatibles para su dispositivo."
+   },
+   "SITE_TUTORIAL_INSTALLPROCESS":{
+      "EN":"The App is being installed in your Homescreen...",
+      "ES":"La Aplicación se está instalando..."
+   },
+   "SITE_TUTORIAL_OPENAPP":{
+      "EN":"Press &nbsp;&nbsp;<b><i class='fa fa-circle-thin'></i> Home</b>&nbsp;&nbsp; button to open the App.",
+      "ES":"Presiona el botón <b>Home <i class='fa fa-circle-thin'></i></b>&nbsp;&nbsp; para ir al escritorio y abrir la App."
+   },
+   "SITE_TUTORIAL_BTN_CLOSE":{
+      "EN":"Close",
+      "ES":"Cerrar"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_1":{
+      "EN":"If you see the next message when opening the App:",
+      "ES":"Si ves el siguiente mensaje al abrir la App:"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_2":{
+      "EN":"Untrusted Enterprise Developer",
+      "ES":"Untrusted Enterprise Developer"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_3":{
+      "EN":"Cancel",
+      "ES":"Cancelar"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_4":{
+      "EN":"follow the instructions below:",
+      "ES":"sigue éstas instrucciones:"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP1.1":{
+      "EN":"1. Go to",
+      "ES":"1. Ve a"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP1.2":{
+      "EN":"Settings",
+      "ES":"Ajustes"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP1.3":{
+      "EN":"General",
+      "ES":"General"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP2.1":{
+      "EN":"2. Tap",
+      "ES":"2. Ve a"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP2.2":{
+      "EN":"Profiles & Device Management",
+      "ES":"Perfiles y Administración de dispositivos"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP3.1":{
+      "EN":"3. Select",
+      "ES":"3. Selecciona"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP4.1":{
+      "EN":"4. Press",
+      "ES":"4. Selecciona"
+   },
+   "SITE_TUTORIAL_UNTRUSTED_STEP4.2":{
+      "EN":"Trust",
+      "ES":"Confiar en"
+   },
+   "SITE_TUTORIAL_BTN_UNTRUSTED_OK":{
+      "EN":"Ok! Got it!",
+      "ES":"Ok! Lo tengo!"
+   },
+   "SITE_TUTORIAL_ANDROID_TITTLE":{
+      "EN":"<b>Well done!</b><br/>The App is downloading...",
+      "ES":"<b>¡Bien hecho!</b><br/>La aplicación se está descargando..."
+   },
+   "SITE_TUTORIAL_ANDROID_EXTRA":{
+      "EN":"Once completed, open the <b>Status Bar</b> and tap the file",
+      "ES":"Una vez haya terminado, abre la <b>Barra de notificaciones</b> y haz click en el archivo"
+   },
+   "SITE_TITLE_DESCRIPTION":{
+      "EN":"Description",
+      "ES":"Descripción"
+   },
+   "SITE_TITLE_NOTES":{
+      "EN":"What's new",
+      "ES":"Novedades"
+   },
+   "SITE_TITLE_BUILDINFO":{
+      "EN":"Additional Info",
+      "ES":"Información adicional"
+   },
+   "SITE_BUILDINFO_BUILD":{
+      "EN":"Version",
+      "ES":"Versión"
+   },
+   "SITE_BUILDINFO_UPDATED":{
+      "EN":"Updated",
+      "ES":"Actualizado"
+   },
+   "SITE_BUILDINFO_SIZE":{
+      "EN":"Size",
+      "ES":"Tamaño"
+   },
+   "SITE_BTN_INSTALL":{
+      "EN":"Install",
+      "ES":"Instalar"
+   },
+   "SITE_BTN_DOWNLOADING":{
+      "EN":"Downloading...",
+      "ES":"Instalando..."
+   }
+}
